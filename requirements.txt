@@ -1,0 +1,17 @@
+fastapi==0.110.0
+uvicorn==0.29.0
+sqlalchemy==2.0.29
+pydantic==2.6.4
+langchain>=0.1.13
+langchain-openai>=0.1.1
+openai>=1.14.2
+streamlit>=1.33.0
+pandas==2.2.1
+plotly==5.20.0
+pytest==8.1.1
+requests==2.31.0
+python-dotenv==1.0.1
+audio-recorder-streamlit
+python-multipart
+groq
+edge-tts
